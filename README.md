@@ -1,4 +1,10 @@
 # Semantic Segmentation
+
+## Environment setup (Linux)
+- https://bsautermeister.blogspot.com/2018/04/how-to-setup-egpu-on-ubuntu-for.html
+- https://linuxconfig.org/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04-bionic-beaver-linux
+
+
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
